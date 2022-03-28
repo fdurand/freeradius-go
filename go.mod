@@ -1,3 +1,3 @@
-module freeradius
+module freeradius-go
 
 go 1.17
